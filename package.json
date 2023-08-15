@@ -5,7 +5,23 @@
   "description": "A package for using Spotify's @spotify/web-api-ts-sdk with Supabase's supabase-js",
   "author": "Brayden Babbitt",
   "license": "MIT",
-  "homepage": "https://github.com/Haptic-Labs/supatify#README.md",
+  "homepage": "https://github.com/Haptic-Labs/supatify#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Haptic-Labs/supatify"
+  },
+  "bugs": {
+    "url": "https://github.com/Haptic-Labs/supatify/issues"
+  },
+  "keywords": [
+    "spotify",
+    "supabase",
+    "typescript",
+    "ts",
+    "react",
+    "api",
+    "supatify"
+  ],
   "main": "./dist/supatify.umd.cjs",
   "module": "./dist/supatify.js",
   "types": "./dist/index.d.ts",
